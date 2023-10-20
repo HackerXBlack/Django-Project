@@ -40,7 +40,7 @@ It is fully functional shoe purchasing website with latest design to different v
 ## To Run This Project
 1- clone this project on your local machine
 ```bash
-  git clone https://github.com/ruhulaminparvez/eCommerce.git
+  git clone https://github.com/HackerXBlack/Django-Project.git
 ```
 2- create a virtual environment inside eCommerce folder,
 ```bash
